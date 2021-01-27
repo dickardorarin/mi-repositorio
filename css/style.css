@@ -419,9 +419,6 @@ a:hover {
 }
 
 
-
-
-
 .navbar .icon-bar {
 	color: #fff;
 }
@@ -492,37 +489,6 @@ a:hover {
 	padding: 15px 0;
 	width: 90px;
 }
-
-#nav-filled {
-	background: #fff;
-	-webkit-box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
-	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
-	padding: 0;
-	position: fixed;
-	top: -100px;
-	left: 0;
-	width: 100%;
-	-webkit-transition: -webkit-transform .5s;
-	transition: -webkit-transform .5s;
-	transition: transform .5s;
-	transition: transform .5s, -webkit-transform .5s;
-	-webkit-transform: translateY(100px);
-	transform: translateY(100px);	
-}
-
-.logo-dark {
-	padding: 15px 0;
-	width: 90px;
-}
-
-.nav-item-dark a{
-	color: #222;
-}
-
-.nav-link-dark {
-	color: #222;
-}
-
 
 /* ----------------------------------------------------------------
      [ End Navbar ]
