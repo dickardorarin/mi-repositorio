@@ -481,8 +481,12 @@ a:hover {
 }
 
 .nav-scroll .navbar-nav .logo {
-	padding: 15px 0;
-	color: #111;
+    .navbar-nav {
+        .logo {
+            padding: 15px 0;
+            color: #111;
+        }
+    }
 }
 
 .logo {
@@ -499,7 +503,6 @@ a:hover {
 .header {
 	min-height: 100vh;
     overflow: hidden;
-    
 }
 
 .hero-1 {
@@ -508,6 +511,22 @@ a:hover {
 
 .hero-2 {
     background-image: url(../img/bg7.jpg);
+}
+
+.hero-3 {
+    background-image: url(../img/bg5.jpg);
+}
+
+.hero-service {
+    background-image: url(../img/bg4.jpg);
+}
+
+.hero-counter {
+    background-image: url(../img/bg1.jpg);
+}
+
+.hero-get-ready {
+ background-image: url(../img/bg2.jpg);
 }
 
 .header .caption .o-hidden {
