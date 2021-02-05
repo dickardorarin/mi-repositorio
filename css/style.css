@@ -433,7 +433,6 @@ a:hover {
 	font-size: 13px;
 } 
 
-<<<<<<< HEAD
 .navbar .navbar-nav .nav-item .nav-link:after {
   background: none repeat scroll 0 0 transparent;
   bottom: 0;
@@ -445,18 +444,6 @@ a:hover {
   -webkit-transition: width 0.3s ease 0s, left 0.3s ease 0s;
   transition: width 0.3s ease 0s, left 0.3s ease 0s;
   width: 0;
-=======
-.navbar .navbar-nav .nav-item .nav-link:after {    
-    background: none repeat scroll 0 0 transparent;
-    bottom: 0;
-    content: "";
-    display: block;
-    height: 2px;
-    left: 50%;
-    background: #FF1053;
-    transition: width 0.3s ease 0s, left 0.3s ease 0s;
-    width: 0;
->>>>>>> parent of d61cb6f... aplique sass
 }
 
 
@@ -494,15 +481,9 @@ a:hover {
 	color: #222;
 }
 
-<<<<<<< HEAD
-.nav-scroll .navbar-nav .logo .navbar-nav .logo {
-  padding: 15px 0;
-  color: #111;
-=======
 .nav-scroll .navbar-nav .logo {
 	padding: 15px 0;
 	color: #111;
->>>>>>> parent of d61cb6f... aplique sass
 }
 
 .logo {
@@ -1242,17 +1223,9 @@ a:hover {
      [ 16 Start Footer ]
 -----------------------------------------------------------------*/
 footer {
-<<<<<<< HEAD
-  background: #262626;
-  background: -webkit-gradient(linear, left top, right bottom, from(#262626), to(#232323));
-  background: linear-gradient(to right bottom, #262626, #232323);
-  padding: 80px 0;
-=======
 	background: #262626;
-	background: -webkit-gradient(linear, left top, right bottom, from(#2626262), to(#232323));
 	background: linear-gradient(to right bottom, #262626, #232323);
 	padding: 80px 0;
->>>>>>> parent of d61cb6f... aplique sass
 }
 
 footer .social a {
